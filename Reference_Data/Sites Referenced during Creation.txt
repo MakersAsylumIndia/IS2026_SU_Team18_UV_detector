@@ -1,0 +1,10 @@
+﻿https://www.scanskinai.com/safe-sun-exposure-time
+Used this to get information on how to calculate the burn time dependent on the UV index.
+
+
+https://lopaka.app/projects
+To initially test the OLED Display and make a rough draft of the final display screen.
+
+
+https://forum.arduino.cc/
+Used to help understand the code needed for certain components and to figure out how to create the logic for the timer.
